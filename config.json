@@ -1,0 +1,52 @@
+{
+    "tokens": {
+        "essentials": "NTY2NTQwNDA0MjI5NTM3Nzkz.XS-VPg.xDE8Dx712TgKORtr4W2AzJYh38Q",
+        "api": "NjIwMjc0MTc4Mjk3MTY3ODkz.XXUZdA.NYOnJmfAmm8QFBjw_ovZX1qw6lg"
+    },
+    "prefixes": {
+        "essentials": "c.",
+        "api": "capi."
+    },
+    "members": {
+        "dan": "",
+        "dio": "",
+        "alve": ""
+    },
+    "servers": {
+        "ccminecraft": {
+            "ip": "play.cloudcraftmc.org.uk",
+            "port": "25565"
+        },
+        "ccrcon": {
+            "ip": "116.203.95.196",
+            "port": "8125",
+            "password": "CCRCON"
+        }
+    },
+    "trello": {
+        "boards": {
+            "dev": "",
+            "main": "",
+            "owo" : "",
+            "filehost": ""
+        },
+        "tags": {
+            "dev": {
+                "botsuggestion": "",
+                "serversuggestion": ""
+            }
+        }
+    },
+    "channels": {
+        "guild": "530700173979025428",
+        "announcements": "590628402977833008",
+        "banned": "574946041598836747",
+        "standby": "586842792396062722",
+        "general": "590627491513630742",
+        "minecraft": "590631661884932096"
+    },
+    "categories": {
+        "personal": "579054917918916615",
+        "tickets": "583232681454862348"
+    }
+}
